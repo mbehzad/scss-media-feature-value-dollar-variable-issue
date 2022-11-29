@@ -1,0 +1,4 @@
+@use "./variables";
+
+
+@media (max-width: variables.$val) { a { color: red; } }

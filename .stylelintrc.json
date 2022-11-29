@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "stylelint-scss"
+  ],
+  "rules": {
+    "scss/media-feature-value-dollar-variable": "always"
+  },
+  "customSyntax": "postcss-scss"
+}

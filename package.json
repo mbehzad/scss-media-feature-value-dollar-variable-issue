@@ -1,0 +1,14 @@
+{
+  "name": "scss-media-feature-value-dollar-variable-issue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "stylelint test.scss"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "postcss-scss": "^4.0.6",
+    "stylelint": "^14.15.0",
+    "stylelint-scss": "^4.3.0"
+  }
+}
